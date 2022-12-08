@@ -1,0 +1,5 @@
+region        = "us-east-1"
+ami           = "ami-0574da719dca65348"
+keypair       = "wordpress_server"
+instance-type = "t2.micro"
+name          = "dev-server"
